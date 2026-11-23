@@ -32,7 +32,7 @@
 
 ### 🛠️ Projets Publics & Univers
 
-- **⛏️ [`KZ-Luncher`](https://github.com/Nalock-dot/KZ-Luncher)** — Launcher Minecraft rapide et épuré, développé en **Python & WebView2** (Licence MIT).
+- **⛏️ KZ-Luncher** — Launcher Minecraft rapide et épuré, développé en **Python & WebView2** (Licence MIT).
 - **🎬 Chaîne YouTube `Nalock!`** — Analyses et essais vidéo autour de l'animation et du jeu vidéo.
 - **⛩️ Communauté `K4ZOKU`**
 
