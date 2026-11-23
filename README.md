@@ -12,7 +12,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Creating_&_Building-ec4899?style=for-the-badge)
 ![Community](https://img.shields.io/badge/K4ZOKU-Co--Fondateur-a855f7?style=for-the-badge)
-![Launcher](https://img.shields.io/badge/Open_Source-K4ZOKU_Launcher-22d3ee?style=for-the-badge)
+![Launcher](https://img.shields.io/badge/Open_Source-KZ--Luncher-22d3ee?style=for-the-badge)
 
 </div>
 
@@ -26,14 +26,13 @@
     Communauté : K4ZOKU (Co-Fondateur)
   Création Vidéo : YouTube (Essais Anime, Animation & Gaming)
     Outils & Dev : Python • WebView2 • HTML / CSS / JavaScript
-         Audio : Maono PD200X + Beyerdynamic DT 770 Pro (80Ω)
 ```
 
 ---
 
 ### 🛠️ Projets Publics & Univers
 
-- **⛏️ [`K4ZOKU Launcher`](https://github.com/Nalock-dot/KZ-Luncher)** — Launcher Minecraft open-source rapide et épuré, développé en **Python & WebView2** (Licence MIT).
+- **⛏️ [`KZ-Luncher`](https://github.com/Nalock-dot/KZ-Luncher)** — Launcher Minecraft open-source rapide et épuré, développé en **Python & WebView2** (Licence MIT).
 - **🎬 Chaîne YouTube `Nalock!`** — Analyses et essais vidéo autour de l'animation et du jeu vidéo.
 - **⛩️ Communauté `K4ZOKU`** — Soirées vocales & gaming du samedi 21h00, événements et projets communautaires.
 
